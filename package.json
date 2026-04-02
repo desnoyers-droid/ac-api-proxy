@@ -1,1 +1,7 @@
-
+{
+  "name": "ac-api-proxy",
+  "version": "1.0.0",
+  "description": "Audit & Coverage - Proxy API Pappers + LinkedIn pour agents Dust",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
